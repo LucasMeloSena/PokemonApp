@@ -1,2 +1,14 @@
-# PokemonApp
-Final project developed in the IOS subject with the aim of reviewing the content learned during the school year
+# 📱 PokemonApp
+Welcome to the PokemonApp project! <br>
+
+## ⚒️ Technologies
+- Swift
+- Storyboard
+- CoreData
+- Alamofire
+- Kingfisher
+
+## 💡 Features
+- Searching for pokemons through the api
+- Saving pokemon in the database
+- Delete pokemon
